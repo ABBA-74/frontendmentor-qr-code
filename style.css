@@ -42,17 +42,17 @@ main {
 }
 
 .card-content {
-  padding-inline: 1rem;
+  padding-inline: 1.5rem;
   text-align: center;
 }
 
-.card-content .title {
+.card-content h1 {
   font-size: 1.3rem;
   font-weight: 700;
   margin-bottom: 1.5rem;
   color: hsl(218, 44%, 22%);
 }
 
-.card-content > p:last-child {
+.card-content p {
   color: hsl(220, 15%, 55%);
 }
